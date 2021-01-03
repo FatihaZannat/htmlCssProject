@@ -1,0 +1,85 @@
+body{
+    background-image: url(https://www.k-international.com/wp-content/uploads/2015/10/financial-translation-service.jpg);
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+    height: 500px;
+    width: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.container{
+    width: 90%;
+    margin: auto;
+}
+.header{
+    margin-top: 10px;
+  width: 90%;;
+  font-weight: bolder;
+overflow: hidden;
+}
+.left-header{
+    font-size: 35px;
+    float: left;
+    width: 45%;
+    }
+    .right-header{
+        width: 55%;
+        float: right;
+    }
+    .right-header a{
+      
+    text-decoration: none;
+    color: white;
+    font-size: 12px;
+    margin-right: 25px;
+    font-weight: bolder;
+
+    }
+    .right-header button{
+        color: white;
+        background-color: red;
+        border: none;
+        border-radius: 10px;
+        padding: 5px;
+        margin-right: 0px;
+        float: right;
+    }
+    .body{
+       
+       width: 70%;
+        color: white;
+       margin: auto;
+       
+       margin-top: 100px;
+
+        
+    }
+    .body h1{
+        margin-bottom: 0px;
+    }
+    .body button{
+        margin: 10px auto;
+        border: 2px solid white;
+        border-radius: 10px;
+       background-color: transparent;
+        padding: 5px;
+        color: white;
+    }
+    .footer{
+        width: 90%;
+        color: white;
+        text-align: right;
+        margin-top: 150px;
+        font-size: smaller;
+    }
+    .footer span{
+        font-size: large;
+    }
+    .footer button{
+        background: red;
+        color: white;
+        border: none;
+        border-radius: 10px;
+        padding: 10px;
+    }

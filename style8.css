@@ -1,0 +1,179 @@
+body{
+    
+    margin: 0px;
+    font-family: sans-serif;
+   height: 800px;
+}
+.main{
+    background:  url(https://cms.esi.info/Media/productImages/Westgate_Factory_Dividers_Anchorwall_steel_partitioning_1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    position: relative;
+    
+}
+.container{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    background-color:#2e3187b7;
+   height: 400px;
+    overflow: hidden;
+}
+.header{
+    overflow: hidden;
+}
+.f-head{
+    font-size: 25px;
+    padding: 10px;
+    float: left;
+    color: white;
+}
+.s-head{
+
+}
+.s-head ul{
+    float: right;
+}
+.s-head li{
+    display: inline;
+    padding: 5px;
+}
+.s-head li a{
+    text-decoration: none;
+    padding: 10px;
+    color: seashell;
+}
+.s-head li a:hover{
+    color: red;
+    border-bottom: red solid 2px;
+}
+.body{
+    color: #fff;
+    width: 70%;
+   margin: auto;
+   margin-top: 100px;
+}
+.body span{
+    display: block;
+    text-align: center;
+    font-size: 13px;
+
+}
+.body h1{
+    text-align: center;
+}
+.body p{
+    text-align: center;
+    font-size: 13px;
+}
+.body button{
+    display: block;
+    width: 15%;
+    margin: auto;
+    padding: 10px;
+    border-radius: 20px;
+    border: white 1px solid;
+    background-color: transparent;
+    color: white;
+}
+.body button:hover{
+    background: red;
+}
+
+.middle{
+transform: translate(300px,60px);
+}
+.middle .flex label{
+    font-weight: bold;
+    float: left;
+    margin-right: 19px;
+    margin-left: 0px;
+}
+.middle .flex input{
+    width: 500px;
+    padding: 8px;
+   
+}
+.middle .flex button{
+    padding: px;
+    background-color: blue;
+    border: none;
+    
+}
+.middle p{
+   transform:translatex(170px)
+}
+
+
+.table{
+    background: #333;
+    color: #fff;
+    margin-top: 100px;  
+    
+}
+.tables{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.table h1{
+    text-align: center;
+    padding-top: 30px;
+}
+.table li{
+    padding: 4px;
+    border-bottom: 2px solid lightgrey;
+    background: #fff;
+    color: #555;
+    list-style: none;
+    text-align: center;
+    padding: 5px 20px;
+}
+.table .gray{
+    background-color: #f4f4f4;
+}
+#black{
+    background-color: black;
+    color: white;
+}
+#blac{
+    background: black;
+}
+#lime{
+    background: #4caf50;
+}
+button{
+    background:  #4caf50;
+   border: none;
+    padding: 5px;
+    color: white;
+}
+.foot{
+    background: skyblue;
+}
+.inp{
+    width: 90%;
+    margin: auto;
+}
+.foot h2{
+    text-align: center;
+    padding: 40px;
+    
+}
+label{
+    
+    
+}
+.foot input{
+     width: 100%;
+ padding: 5px;
+ margin: 5px 0px;
+   
+}
+.textarea{
+    
+    
+}

@@ -1,0 +1,76 @@
+body{
+    background:url(https://tse2.mm.bing.net/th?id=OIP.zgHOLx3PYhqgH2UjzX93ggHaE8&pid=Api&P=0&w=245&h=164);
+    background-repeat: no-repeat;
+    background-size: cover;
+  margin: 0px;
+}
+.container{
+    background-color: rgba(73, 73, 197, 0.63);
+    height: 100%;
+}
+
+.head{
+overflow: hidden;
+background-color: white;
+padding: 20px 50px;
+}
+
+.frist-header{
+    width: 40%;
+text-transform: uppercase;
+float: left;
+font-family: cursive;
+margin-top: 5px;
+color: brown;
+font-weight: bold;
+font-size: 30px;
+letter-spacing: 2px;
+}
+.second-header{
+
+}
+.second-header ul{
+
+}
+.second-header li{
+    display: inline;
+    text-transform: uppercase;
+    float: right;
+    margin-right: 40px;
+}
+.body{
+margin-top: 100px;
+}
+.body h3{
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 30px;
+}
+.body h2{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 30px;
+}
+.body p{
+    text-align: center;
+    font-family: cursive;
+    font-size: 20px;
+}
+.btn{
+    text-align: center;
+    margin-top: 50px;
+}
+.btn1{
+   
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 10px;
+}
+.btn2{
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 10px;
+    background-color: greenyellow;
+}

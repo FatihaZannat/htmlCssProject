@@ -1,0 +1,95 @@
+body{
+   
+    background: linear-gradient(rgb(0, 0, 0),rgba(95, 92, 92, 0.555)), url(http://weknowyourdreams.com/images/restaurant/restaurant-12.jpg);
+   
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+  
+   
+}
+.container{
+  
+     width: 90%;
+    margin: auto;
+}
+.header{
+overflow: hidden;
+}
+.left-head{
+    width: 40%;
+    float: left;
+    font-size: 40px;
+    
+}
+.right-head{
+width: 60%;
+float: right;
+margin: auto;
+
+}
+.right-head ul{
+    
+}
+.right-head ul li{
+    display: inline;
+    font-size: 25px;
+    text-transform: capitalize;
+    margin-right: 30px;
+  
+
+}
+a{ 
+    text-decoration: none;
+}
+.belly {
+    width: 80%;
+    margin: auto;
+    height: 328px;
+   
+overflow: hidden;
+margin-top: 50px;
+
+
+}
+.text{
+    text-align: center;
+    margin-top: 0px;
+    font-family: cursive;
+    
+}
+
+
+.belly img{ 
+    margin-top: 30px;
+    width: 150px;
+    border-radius: 90px;
+  
+}
+.frist-belly{
+    width: 30%;
+float: left;
+
+}
+.second-belly{
+    width: 35%;
+    float: right;
+margin-left: 5px;
+
+}
+.third-belly{
+    width: 30%;
+float: right;
+}
+.footer{
+    margin-top: 130px;
+    text-align: center;
+
+}
+.footer button{
+    margin-bottom: 20px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(59, 221, 44);
+}

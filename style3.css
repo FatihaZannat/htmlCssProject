@@ -1,0 +1,77 @@
+body{
+margin: 0;
+}
+.nav{
+   
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    height: 60px;
+    margin-top: 5px;
+    overflow: hidden;
+}
+.nav-icon{
+    text-decoration: none;
+    float: left;
+    text-transform: uppercase;
+    margin-top: 15px;
+    font-size: 23px;
+}
+.nav ul{
+   
+}
+.nav ul li{
+    display: inline;
+    float: right;
+    margin-right: 9px;
+}
+.nav ul li a{
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.body{
+    background-image: url(http://1.bp.blogspot.com/-__4DvQQ7nBY/TZs0XUYy19I/AAAAAAAAA6g/ozAOYiBtedA/s1600/London.6.8.2007-464.jpg);
+    width: 100%;
+    height:450px;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
+.heading{
+  text-align: center;
+  margin-top: 150px;
+  color: white;
+
+}
+.heading h1{
+    text-transform: capitalize;
+}
+.st-btn{
+border-radius: 10px;
+background-color: blue;
+color: white;
+}
+.nd-btn{
+border-radius: 12px;
+}
+.footer{
+    width: 80%;
+    text-align: center;
+    margin: 30px;
+}
+.footer a{
+    width: 30%;
+    float: left;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: cursive;
+}
+.footer span{
+    float: right;
+}
+.rd3-btn{
+    background-color: green;
+}
